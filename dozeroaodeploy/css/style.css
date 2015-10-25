@@ -1,0 +1,38 @@
+#logo {
+	margin: 20px 0px;
+}
+#btn-login {
+	margin-top: 70px;
+}
+#box-inscricao {
+	border: 1px solid #464545;
+	padding: 20px;
+	margin-top: 30px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+}
+.lista-inscricao {
+	margin: 0px;
+	padding: 0px;
+	margin-bottom: 30px;
+}
+.lista-inscricao li {
+	list-style: none;
+	margin-bottom: 20px;
+	color: #464545;
+}
+#menu-left .nav>li>a {
+
+  background-color: #303030;
+}
+#menu-left .nav>li>a:hover {
+
+  background-color: #375a7f;
+}
+#name-user {
+	margin-top: -30px;
+	background-color: #222222;
+	margin-bottom: 60px;
+	text-shadow: 1px 1px #222;
+}
